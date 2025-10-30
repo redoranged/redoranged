@@ -46,7 +46,7 @@ I help businesses streamline operations and enhance productivity through modern,
 
 <p align="center">
   <img height="200" src="https://github-readme-stats-kappa-eight-19.vercel.app/api?username=redoranged&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github">
-  <img src="https://github-readme-stats-kappa-eight-19.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-kappa-eight-19.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="200" />
 </p>
 
 <p align="center">
