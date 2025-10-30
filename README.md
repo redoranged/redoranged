@@ -44,13 +44,11 @@ I help businesses streamline operations and enhance productivity through modern,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=redoranged&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=redoranged&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redoranged&theme=radical&hide_border=true" height="160" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=redoranged&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redoranged&theme=redical&hide_border=true&area=true" />
