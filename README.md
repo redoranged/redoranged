@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="RedOrange Logo" width="250"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Daniel D Fortuna</h1>
 <h3 align="center">💼 Odoo Developer | 🧑‍💻 Fullstack Engineer | 🚀 Tech Enthusiast</h3>
 
@@ -40,7 +44,7 @@ I help businesses streamline operations and enhance productivity through modern,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
