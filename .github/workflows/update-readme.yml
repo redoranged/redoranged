@@ -1,0 +1,24 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Jalankan tiap hari jam 00:00 UTC (pukul 07:00 WIB)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout repo kamu
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Jalankan GitHub Readme Stats agar token digunakan
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # Optional: kamu bisa tambahkan step untuk mem-push update otomatis ke README
+      # (jika nanti kamu pakai badge dinamis atau konten yang berubah)
