@@ -50,6 +50,10 @@ I help businesses streamline operations and enhance productivity through modern,
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-nine-teal.vercel.app?user=redoranged&theme=radical&hide_border=true&mode=weekly" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=redoranged&theme=redical&hide_border=true&area=true" />
 </p>
 
