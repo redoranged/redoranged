@@ -70,16 +70,13 @@ I help businesses streamline operations and enhance productivity through modern,
 ### 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/redoranged" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E44B3C?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:contact@redorange.id">
-    <img src="https://img.shields.io/badge/Email-E44B3C?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/redoranged">
-    <img src="https://img.shields.io/badge/GitHub-E44B3C?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/redoranged">
-    <img src="https://img.shields.io/badge/GitLab-E44B3C?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
 
