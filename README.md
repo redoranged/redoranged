@@ -44,7 +44,7 @@ I help businesses streamline operations and enhance productivity through modern,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
