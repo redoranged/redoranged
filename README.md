@@ -28,8 +28,8 @@ I help businesses streamline operations and enhance productivity through modern,
 <p>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 #### 💻 Fullstack Tools
@@ -44,9 +44,18 @@ I help businesses streamline operations and enhance productivity through modern,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redoranged&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoranged&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redoranged&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redoranged&theme=redical&hide_border=true&area=true" />
+</p>
+
 
 ---
 
